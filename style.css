@@ -64,7 +64,7 @@ nav{
     align-items: center;
     justify-content: center;
     position: relative;
-    width: 120vh;
+    width: 150vh;
     justify-items: center;
 }
 
@@ -72,13 +72,13 @@ nav{
     position: absolute;
     top: 150;
     color: black;
-    left: 500;
+    left: 650;
 }
 
 .buyButton{
     position: absolute;
     top : 120;
-    left: 450;
+    left: 600;
     background-color: black;
     font-size: 30px;
     font-weight: 200;
